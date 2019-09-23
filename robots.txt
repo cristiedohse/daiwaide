@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thauchahko.jaydodson.top/sitemap.xml
